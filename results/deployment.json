@@ -1,0 +1,28 @@
+{
+  "verified_at": "2026-10-16T06:54:04.167560+00:00",
+  "url": "https://ancoded1234.github.io/advertising-ai-hiring-analysis/",
+  "public_unauthenticated_http": true,
+  "github_pages_status": "built",
+  "source": {
+    "branch": "main",
+    "path": "/docs"
+  },
+  "assets": {
+    "index.html": {
+      "http_status": 200,
+      "sha256": "ef7dfe8a5ba3096c9ebd35d2e0e75edfdb62f61e52229123fb1ddda331ce6017"
+    },
+    "assets/app.js": {
+      "http_status": 200,
+      "sha256": "77a2280f5409bb242d9e2f33147dc1e246b74a67456ae822ed46c600d1c72f23"
+    },
+    "assets/style.css": {
+      "http_status": 200,
+      "sha256": "c9eab2300bb16da2d37040c123bcca697e5384498e815f775212e8b25b29b0f0"
+    },
+    "data/analysis.json": {
+      "http_status": 200,
+      "sha256": "b13be1b708917d7429e2219eb25097d14faeed3004d367cb4c6c05a12b929ff8"
+    }
+  }
+}

@@ -1,5 +1,5 @@
 {
-  "url": "http://localhost:8766",
+  "url": "https://ancoded1234.github.io/advertising-ai-hiring-analysis/",
   "slide_viewport_checks": 48,
   "javascript_errors": [],
   "controls": "keyboard/buttons/fullscreen/mode_toggle/explorer/CSV passed",
@@ -29,8 +29,8 @@
       "slide": 3,
       "width": 1440,
       "docWidth": 1440,
-      "top": 237.21481323242188,
-      "bottom": 663.54296875,
+      "top": 229.828125,
+      "bottom": 656.15625,
       "header": 66,
       "footer": 830
     },
@@ -39,8 +39,8 @@
       "slide": 4,
       "width": 1440,
       "docWidth": 1440,
-      "top": 205.740478515625,
-      "bottom": 693.006103515625,
+      "top": 204.359375,
+      "bottom": 691.625,
       "header": 66,
       "footer": 830
     },
@@ -69,8 +69,8 @@
       "slide": 7,
       "width": 1440,
       "docWidth": 1440,
-      "top": 133.31973266601562,
-      "bottom": 762.9291381835938,
+      "top": 133.1875,
+      "bottom": 762.796875,
       "header": 66,
       "footer": 830
     },
@@ -89,8 +89,8 @@
       "slide": 9,
       "width": 1440,
       "docWidth": 1440,
-      "top": 105.14688873291016,
-      "bottom": 793.6000061035156,
+      "top": 103.765625,
+      "bottom": 792.21875,
       "header": 66,
       "footer": 830
     },
@@ -99,8 +99,8 @@
       "slide": 10,
       "width": 1440,
       "docWidth": 1440,
-      "top": 208.46875,
-      "bottom": 677.5,
+      "top": 208.4966278076172,
+      "bottom": 677.5278930664062,
       "header": 66,
       "footer": 830
     },
@@ -149,8 +149,8 @@
       "slide": 3,
       "width": 1280,
       "docWidth": 1280,
-      "top": 178.80914306640625,
-      "bottom": 528.2310180664062,
+      "top": 178.78125,
+      "bottom": 528.203125,
       "header": 66,
       "footer": 650
     },
