@@ -1,0 +1,38 @@
+{
+  "597ae3e2c108": {
+    "changes": {
+      "included": true,
+      "exclusion_reason": null,
+      "section_complete": true,
+      "role": "디자인/영상",
+      "broad_ai": true,
+      "preferred_broad": true,
+      "required_broad": false,
+      "genai": false,
+      "required_genai": false,
+      "preferred_genai": false,
+      "evidence": [{"section": "preferred", "terms": [], "text": "AI Image / Video Tool 등 새로운 시도를 즐기는 분"}]
+    },
+    "reason": "원본 이미지 9188be7dec5e0e.jpg를 시각적으로 확인. 03 WHO WE'RE LOOKING FOR와 04 PLUS가 2열이어서 OCR 읽기 순서와 AI 문자가 손상됨. PLUS의 AI Image / Video Tool 문구를 확인해 포괄 AI 우대로 판정. 특정 생성형 도구명·생성형 AI 표기는 없으므로 엄격 기준에는 미포함. 이미지의 FASHION CONTENT CREATOR / CREATIVE PD 직무를 근거로 디자인/영상으로 분류. 신입 공고."
+  },
+  "90bc4568d430": {
+    "changes": {
+      "included": true,
+      "exclusion_reason": null,
+      "section_complete": true,
+      "role": "디자인/영상",
+      "broad_ai": true,
+      "preferred_broad": true,
+      "required_broad": false,
+      "genai": false,
+      "required_genai": false,
+      "preferred_genai": false,
+      "evidence": [{"section": "preferred", "terms": [], "text": "AI Image / Video Tool 등 새로운 시도를 즐기는 분"}]
+    },
+    "reason": "원본 이미지 a06f001f7b08c8.jpg를 시각적으로 확인. 2열 OCR 순서와 AI 문자 오류를 바로잡아 04 PLUS의 AI Image / Video Tool 문구를 포괄 AI 우대로 판정. 특정 생성형 도구명·생성형 AI 표기는 없으므로 엄격 기준에는 미포함. 이미지의 FASHION CONTENT CREATOR / CREATIVE PD 직무를 근거로 디자인/영상으로 분류. 다른 URL의 신입 공고와 유사한 서식이나 경력 공고이므로 별도 포지션으로 유지."
+  },
+  "b91cac9ada0f": {
+    "changes": {"role": "AE/기획"},
+    "reason": "BX 오프라인 프로모션 담당은 기획 직무. '프로모션'에 '모션' 문자열이 포함되어 생긴 영상 직무 오분류를 수정."
+  }
+}

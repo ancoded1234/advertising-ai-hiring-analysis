@@ -1,0 +1,89 @@
+[
+  {
+    "name": "에코마케팅",
+    "url": "https://echomarketing.career.greetinghr.com/ko/recruit",
+    "kind": "greeting",
+    "collected_at": "2026-10-16T06:32:59.272918+00:00",
+    "robots": {
+      "status": 200,
+      "decision": "allowed",
+      "rules": "\nUser-agent: *\nAllow: /\nDisallow: /o/*/apply\nDisallow: /ko/o/*/apply\nDisallow: /en/o/*/apply\nDisallow: /m/*\nDisallow: /a/*\nDisallow: /ko/a/*\nDisallow: /en/a/*\n\nSitemap: https://echomarketing.career.greetinghr.com/sitemap.xml\n"
+    },
+    "http_status": 200,
+    "status": "collected",
+    "listed_jobs": 14
+  },
+  {
+    "name": "차이커뮤니케이션",
+    "url": "https://chai.career.greetinghr.com/ko/guide1",
+    "kind": "greeting",
+    "collected_at": "2026-10-16T06:33:16.171009+00:00",
+    "robots": {
+      "status": 200,
+      "decision": "allowed",
+      "rules": "\nUser-agent: *\nAllow: /\nDisallow: /o/*/apply\nDisallow: /ko/o/*/apply\nDisallow: /en/o/*/apply\nDisallow: /m/*\nDisallow: /a/*\nDisallow: /ko/a/*\nDisallow: /en/a/*\n\nSitemap: https://chai.career.greetinghr.com/sitemap.xml\n"
+    },
+    "http_status": 200,
+    "status": "collected",
+    "listed_jobs": 12
+  },
+  {
+    "name": "대학내일ES",
+    "url": "https://univ.careerlink.kr/jobs",
+    "kind": "browser",
+    "pattern": "/jobs/RC\\d+",
+    "collected_at": "2026-10-16T06:33:22.241192+00:00",
+    "robots": {
+      "status": 200,
+      "decision": "allowed",
+      "rules": "User-agent: *\nDisallow: /admin\nDisallow: /my-page\nDisallow: /sign-up\nDisallow: /logout\nDisallow: /find-id\nDisallow: /find-pwd\nDisallow: /policy\nDisallow: /nhr\nDisallow: /gate\nDisallow: /inquiry\nDisallow: /error\nDisallow: /login"
+    },
+    "http_status": 200,
+    "status": "collected",
+    "listed_jobs": 7
+  },
+  {
+    "name": "디자인피버",
+    "url": "https://careers.designfever.com/job-opening",
+    "kind": "browser",
+    "pattern": "/job-opening/\\d+",
+    "collected_at": "2026-10-16T06:34:00.657279+00:00",
+    "robots": {
+      "status": 404,
+      "decision": "robots_absent"
+    },
+    "http_status": 200,
+    "status": "collected",
+    "listed_jobs": 4
+  },
+  {
+    "name": "이노레드",
+    "url": "https://beloved.careers.team/job-descriptions",
+    "kind": "browser",
+    "pattern": "/job-descriptions/.+",
+    "collected_at": "2026-10-16T06:34:06.674130+00:00",
+    "robots": {
+      "status": 200,
+      "decision": "allowed",
+      "rules": "User-agent: *\nDisallow: /404\nDisallow: /500"
+    },
+    "http_status": 200,
+    "status": "collected",
+    "listed_jobs": 4
+  },
+  {
+    "name": "TBWA KOREA",
+    "url": "https://tbwakorea.com/careers/",
+    "kind": "tbwa",
+    "pattern": "/careers/.+",
+    "collected_at": "2026-10-16T06:34:11.228361+00:00",
+    "robots": {
+      "status": 200,
+      "decision": "allowed",
+      "rules": "Crawl-delay: 10\nUser-agent: *\nDisallow: /wp-content/uploads/wpo/wpo-plugins-tables-list.json\n\n# START YOAST BLOCK\n# ---------------------------\nUser-agent: *\nDisallow:\n\nSitemap: https://tbwakorea.com/sitemap_index.xml\n# ---------------------------\n# END YOAST BLOCK"
+    },
+    "http_status": 200,
+    "status": "collected",
+    "listed_jobs": 4
+  }
+]

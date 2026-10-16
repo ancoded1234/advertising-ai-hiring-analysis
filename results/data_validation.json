@@ -1,0 +1,13 @@
+{
+  "unique_source_urls": 45,
+  "included": 29,
+  "genai": 6,
+  "broad_ai": 13,
+  "cross_file_totals": "passed",
+  "section_boundary_regression": "passed",
+  "Illustrator_false_positive_regression": "passed",
+  "role_lexicon_regressions": "passed",
+  "firecrawl_valid_sources": 4,
+  "secret_scan": "passed",
+  "independent_human_ground_truth": "not available; no classification accuracy claimed"
+}

@@ -1,0 +1,8 @@
+.env
+.env.*
+.venv/
+data/raw/
+data/firecrawl/*_full.json
+test-results/
+__pycache__/
+*.zip

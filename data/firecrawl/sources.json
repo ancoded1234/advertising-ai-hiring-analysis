@@ -1,0 +1,56 @@
+[
+  {
+    "url": "https://www.wanted.co.kr/robots.txt",
+    "collected_at": "2026-10-16T06:24:43.246042+00:00",
+    "method": "Firecrawl v2 scrape",
+    "http_status": 500,
+    "source_status": null,
+    "title": null,
+    "success": false
+  },
+  {
+    "url": "https://www.wanted.co.kr/terms",
+    "collected_at": "2026-10-16T06:24:46.686562+00:00",
+    "method": "Firecrawl v2 scrape",
+    "http_status": 200,
+    "source_status": 200,
+    "title": "개인회원 이용약관 (2026.08.06 본) – 원티드 고객센터",
+    "success": true
+  },
+  {
+    "url": "https://www.jobkorea.co.kr/robots.txt",
+    "collected_at": "2026-10-16T06:24:50.361676+00:00",
+    "method": "Firecrawl v2 scrape",
+    "http_status": 200,
+    "source_status": 200,
+    "title": null,
+    "success": true
+  },
+  {
+    "url": "https://www.saramin.co.kr/robots.txt",
+    "collected_at": "2026-10-16T06:24:52.202420+00:00",
+    "method": "Firecrawl v2 scrape",
+    "http_status": 429,
+    "source_status": null,
+    "title": null,
+    "success": false
+  },
+  {
+    "url": "https://www.ilo.org/publications/generative-ai-and-jobs-refined-global-index-occupational-exposure",
+    "collected_at": "2026-10-16T06:24:52.877336+00:00",
+    "method": "Firecrawl v2 scrape",
+    "http_status": 429,
+    "source_status": null,
+    "title": null,
+    "success": false
+  },
+  {
+    "url": "https://www.weforum.org/publications/the-future-of-jobs-report-2025/",
+    "collected_at": "2026-10-16T06:24:53.504527+00:00",
+    "method": "Firecrawl v2 scrape",
+    "http_status": 429,
+    "source_status": null,
+    "title": null,
+    "success": false
+  }
+]

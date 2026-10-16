@@ -1,0 +1,9 @@
+{
+  "checked_on": "2026-10-16",
+  "precision": "date; recorded from initial environment probes",
+  "platforms": [
+    {"platform": "원티드", "public_api_probe_http": 200, "robots_direct_http": 403, "used_in_denominator": false, "decision": "공개 API 응답을 확인했으나 개인회원 이용약관의 사전 허락 없는 자동화 수집 제한을 확인하고 대량 수집에 사용하지 않음", "terms_url": "https://www.wanted.co.kr/terms"},
+    {"platform": "사람인", "robots_direct_http": 307, "used_in_denominator": false, "decision": "직접 요청에서 HTTP_BAD_REQUEST 안내로 연결되는 응답. 차단·로그인 우회하지 않음"},
+    {"platform": "잡코리아", "direct_http": 200, "content_is_job_data": false, "used_in_denominator": false, "decision": "직접 요청은 보안정책 안내 HTML을 반환. HTTP 200을 수집 성공으로 처리하지 않음"}
+  ]
+}

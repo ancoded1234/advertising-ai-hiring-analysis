@@ -1,0 +1,42 @@
+[
+  {
+    "url": "https://www.ilo.org/publications/generative-ai-and-jobs-refined-global-index-occupational-exposure",
+    "collected_at": "2026-10-16T06:32:00.236937+00:00",
+    "method": "Firecrawl v2 scrape",
+    "http_status": 200,
+    "source_status": 200,
+    "title": "Generative AI and Jobs: A Refined Global Index of Occupational Exposure | International Labour Organization",
+    "success": true,
+    "characters": 5472
+  },
+  {
+    "url": "https://www.weforum.org/publications/the-future-of-jobs-report-2025/",
+    "collected_at": "2026-10-16T06:32:07.285094+00:00",
+    "method": "Firecrawl v2 scrape",
+    "http_status": 200,
+    "source_status": 200,
+    "title": "The Future of Jobs Report 2025 | World Economic Forum",
+    "success": true,
+    "characters": 817
+  },
+  {
+    "url": "https://careers.designfever.com/job-opening/88",
+    "collected_at": "2026-10-16T06:32:18.046650+00:00",
+    "method": "Firecrawl v2 scrape",
+    "http_status": 200,
+    "source_status": 200,
+    "title": "DF CAREERS | APPLY",
+    "success": true,
+    "characters": 14138
+  },
+  {
+    "url": "https://chai.career.greetinghr.com/ko/o/239857",
+    "collected_at": "2026-10-16T06:32:28.335958+00:00",
+    "method": "Firecrawl v2 scrape",
+    "http_status": 200,
+    "source_status": 200,
+    "title": "[CHAI CRE.W] 커머스 광고 디자이너 모집(경력 1년 이상)",
+    "success": true,
+    "characters": 570
+  }
+]
